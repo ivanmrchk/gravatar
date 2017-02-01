@@ -2,7 +2,8 @@
 
 
 
-Gravatr is a golang package for gravatar.com
+Gravatar is a golang package for gravatar.com
+##### A freakishly light library for gravatar images. 
 
 ##### What is Gravatar.com
 Your Gravatar is an image that follows you from site to site appearing beside your name when you do things like comment or post on a blog. Avatars help identify your posts on blogs and web forums, so why not on any site?
