@@ -16,11 +16,12 @@ This is a very small and timy package compared to some other ones, it has only t
 - GetImg() - will return a complete url to the image.
 
 ## Usage
-First run get the package
+First run go get
 ```sh
 $ go get github.com/ivanmrchk/gravatar
 ```
 Import it into your project
+
 Example:
 ```Go
 func main() {
